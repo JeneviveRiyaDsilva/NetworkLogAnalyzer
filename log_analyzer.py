@@ -1,5 +1,3 @@
-
-
 import matplotlib.pyplot as plt
 
 log_file = "sample_logs.txt"
